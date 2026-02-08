@@ -7,7 +7,7 @@
 <h4>React Developer | Front-End Engineer</h4>
 
 <details>
-<p><strong><summary>💻 Busy coding & building awesome UI/UX</summary></strong></p>
+<p><strong><summary>💻 Busy coding & building awesome web applications</summary></strong></p>
 
 🎧 Coding + Music = Focus Mode
 </details>
@@ -27,7 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```javascript
 // About me as a React Developer
@@ -36,7 +35,7 @@ class Abdallah extends FrontEndDeveloper {
   skills = {
     languages: ["JavaScript", "HTML", "CSS"],
     frameworks: ["React"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
-    currentlyWorkingOn: ["React Projects", "UI/UX Design", "Web Optimization"]
+    tools: ["Git", "GitHub", "VS Code"],
+    currentlyWorkingOn: ["React Projects", "Web Development"]
   };
 }
