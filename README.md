@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>Hi 👋, I'm Abdallah Sabha</h2>
-<h4>React Developer | Front-End Engineer</h4>
+<h4>Web Developer | Software Engineer</h4>
 
 <details>
 <p><strong><summary>💻 Busy coding & building awesome web applications</summary></strong></p>
