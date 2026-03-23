@@ -1,7 +1,8 @@
-Abdallah Sabha
-Full Stack Developer (React & .NET)
+👋 Hi, I'm Abdallah Sabha
 
-Computer Science student with experience building modern, scalable web applications. Skilled in developing both frontend and backend systems, including full stack projects with AI integration. Seeking opportunities to contribute to meaningful projects and grow as a developer.
+Full Stack Developer | React & .NET Specialist | AI Integrator
+"Building scalable web applications with clean logic and intelligent features."
+I am a Computer Science student passionate about bridging the gap between robust backend systems and dynamic frontends. My expertise lies in the Microsoft .NET ecosystem paired with modern React, with a focused interest in integrating AI capabilities into full-stack solutions. I prioritize deep understanding, clean architecture, and solving real-world problems over hype.
 
 Projects
 Movie App
