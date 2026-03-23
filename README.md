@@ -5,6 +5,7 @@ Full Stack Developer | React & .NET Specialist | AI Integrator
 I am a Computer Science student passionate about bridging the gap between robust backend systems and dynamic frontends. My expertise lies in the Microsoft .NET ecosystem paired with modern React, with a focused interest in integrating AI capabilities into full-stack solutions. I prioritize deep understanding, clean architecture, and solving real-world problems over hype.
 
 Projects
+
 Movie App
 
 A React-based application that allows users to explore movies using an external API. Focused on API integration and dynamic UI development.
@@ -22,9 +23,11 @@ Frontend: React, JavaScript, HTML, CSS
 Backend: .NET (C#)
 Database: SQL Server , PostgreSQL , MongoDB
 Tools: Git, GitHub
+
 Contact
 Email:abdallah.sabha24@gmail.com  
 LinkedIn: Abdallah Sabha
+
 About Me
 Strong problem-solving skills
 Fast learner and self-motivated
