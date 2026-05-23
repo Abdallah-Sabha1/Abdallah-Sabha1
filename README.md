@@ -1,35 +1,56 @@
-👋 Hi, I'm Abdallah Sabha
+# Abdallah Sabha
 
-Full Stack Developer | React & .NET Specialist | AI Integrator
-"Building scalable web applications with clean logic and intelligent features."
-I am a Computer Science student passionate about bridging the gap between robust backend systems and dynamic frontends. My expertise lies in the Microsoft .NET ecosystem paired with modern React, with a focused interest in integrating AI capabilities into full-stack solutions. I prioritize deep understanding, clean architecture, and solving real-world problems over hype.
+**Full-Stack Developer — React · ASP.NET Core · PostgreSQL**
 
-Projects
+Computer Science student at Applied Science University, Amman.
+Building full-stack web applications with a focus on backend architecture, REST APIs, and AI integration.
 
-Movie App
+---
 
-A React-based application that allows users to explore movies using an external API. Focused on API integration and dynamic UI development.
+## 🛠 Tech Stack
 
-Shopilo (E-commerce App)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-A shopping platform built with React. Features include product browsing and cart functionality, with an emphasis on user experience and clean UI.
+---
 
-Full Stack AI Project
+## 🚀 Projects
 
-A full stack web application built using React and .NET with database integration. Includes AI-powered features and demonstrates end-to-end development skills.
+### [Mashroo3i — AI-Powered Business Idea Evaluation Platform](https://github.com/Abdallah-Sabha1)
+Full-stack SaaS platform that helps Jordanian entrepreneurs evaluate business ideas using AI.
+Generates scoring reports, SWOT analysis, market research, and 12-month financial projections
+tailored to the Jordanian market.
 
-Tech Stack
-Frontend: React, JavaScript, HTML, CSS
-Backend: .NET (C#)
-Database: SQL Server , PostgreSQL , MongoDB
-Tools: Git, GitHub
+**Stack:** React · ASP.NET Core · PostgreSQL · Entity Framework Core · JWT · Anthropic Claude API · Groq LLaMA
 
-Contact
-Email:abdallah.sabha24@gmail.com  
-LinkedIn: Abdallah Sabha
+🔗 [Live Demo](https://your-mashroo3i-link.com)
 
-About Me
-Strong problem-solving skills
-Fast learner and self-motivated
-Passionate about building real-world applications
-Continuously improving skills
+---
+
+### [Shopilo — E-Commerce Web Application](https://github.com/Abdallah-Sabha1/shopilo)
+Responsive e-commerce frontend with product browsing, cart management, and checkout flow.
+Built with clean component architecture and global state management.
+
+**Stack:** React · JavaScript · CSS
+
+🔗 [Live Demo](https://shopilooo.netlify.app)
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: **Azure Fundamentals (AZ-900)** — May 2026
+- **ASP.NET Core (.NET 10)** Ultimate Guide — Udemy, 2025
+
+---
+
+## 📬 Contact
+
+- 📧 abdallah.sabha24@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-sabha-990b061a5/)
+- 📍 Amman, Jordan — Open to internships & junior roles
