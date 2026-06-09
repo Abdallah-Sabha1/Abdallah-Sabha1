@@ -51,6 +51,6 @@ Built with clean component architecture and global state management.
 
 ## 📬 Contact
 
-- 📧 abood.sabha78@gmail.com
+- 📧 abdallahsabha78@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-sabha-990b061a5/)
 - 📍 Amman, Jordan — Open to internships & junior roles
